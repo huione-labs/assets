@@ -1,10 +1,10 @@
 {
     "name": "Huione USD",
-    "website": "https://docs.xone.plus/",
-    "description": "Let’s Embrace The Future Together!",
+    "website": "https://huione.money/en/home",
+    "description": "USDH(Huione USD)，Stablecoin that Never be Freezed",
     "explorer": "https://testnet.xscscan.com/",
     "type": "ERC20",
-    "symbol": "WXOC",
+    "symbol": "USDH",
     "decimals": 18,
     "status": "active",
     "id": "0xc69751291E117420065c10bc4ba155448a5e7338"
